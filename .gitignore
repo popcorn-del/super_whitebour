@@ -1,7 +1,5 @@
 node_modules
 
-server-data/history.txt
-
 lib-cov
 *.seed
 *.log
@@ -16,3 +14,13 @@ logs
 results
 
 npm-debug.log
+
+.DS_Store
+
+wbo-backup*
+
+# Jetbrains
+.idea/
+
+# Nightwatch test results
+tests_output/
